@@ -1,0 +1,6 @@
+framework module Pods_CWNetworking_Tests {
+  umbrella header "Pods-CWNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
